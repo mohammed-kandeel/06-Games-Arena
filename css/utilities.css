@@ -1,0 +1,280 @@
+/* S T A R T   T E X T   C O L O R S */
+.text-main {
+   --main: 202, 255, 28;
+   --bs-text-opacity: 1;
+   color: rgba(var(--main), var(--bs-text-opacity));
+}
+.text-dark-2 {
+   --dark: 11, 14, 19;
+   --bs-text-opacity: 1;
+   color: rgba(var(--dark), var(--bs-text-opacity));
+}
+.text-light-2 {
+   --light: 241, 241, 241;
+   --bs-text-opacity: 1;
+   color: rgba(var(--light), var(--bs-text-opacity));
+}
+.text-red-400 {
+   --red-400: 255, 100, 103;
+   --bs-text-opacity: 1;
+   color: rgba(var(--red-400), var(--bs-text-opacity));
+}
+.text-red-500 {
+   --red-500: 251, 44, 54;
+   --bs-text-opacity: 1;
+   color: rgba(var(--red-500), var(--bs-text-opacity));
+}
+.text-red-600 {
+   --red-600: 231, 0, 11;
+   --bs-text-opacity: 1;
+   color: rgba(var(--red-600), var(--bs-text-opacity));
+}
+.text-red-900 {
+   --red-900: 129, 24, 25;
+   --bs-text-opacity: 1;
+   color: rgba(var(--red-900), var(--bs-text-opacity));
+}
+.text-green-400 {
+   --green-400: 6, 223, 114;
+   --bs-text-opacity: 1;
+   color: rgba(var(--green-400), var(--bs-text-opacity));
+}
+.text-green-600 {
+   --green-600: 0, 166, 62;
+   --bs-text-opacity: 1;
+   color: rgba(var(--green-600), var(--bs-text-opacity));
+}
+.text-gray-300 {
+   --gray-300: 209, 213, 219;
+   --bs-text-opacity: 1;
+   color: rgba(var(--gray-300), var(--bs-text-opacity));
+}
+.text-gray-400 {
+   --gray-400: 153, 161, 175;
+   --bs-text-opacity: 1;
+   color: rgba(var(--gray-400), var(--bs-text-opacity));
+}
+.text-gray-600 {
+   --gray-600: 74, 85, 101;
+   --bs-text-opacity: 1;
+   color: rgba(var(--gray-600), var(--bs-text-opacity));
+}
+.text-gray-700 {
+   --gray-700: 54, 65, 83;
+   --bs-text-opacity: 1;
+   color: rgba(var(--gray-700), var(--bs-text-opacity));
+}
+.text-gray-800 {
+   --gray-800: 30, 41, 57;
+   --bs-text-opacity: 1;
+   color: rgba(var(--gray-800), var(--bs-text-opacity));
+}
+.text-gray-900 {
+   --gray-900: 16, 24, 40;
+   --bs-text-opacity: 1;
+   color: rgba(var(--gray-900), var(--bs-text-opacity));
+}
+/* E N D   T E X T   C O L O R S */
+
+/* S T A R T   B G - C O L O R S */
+.bg-main {
+   --main: 202, 255, 28;
+   --bs-bg-opacity: 1;
+   background-color: rgba(var(--main), var(--bs-bg-opacity));
+}
+.bg-dark-2 {
+   --dark: 11, 14, 19;
+   --bs-bg-opacity: 1;
+   background-color: rgba(var(--dark), var(--bs-bg-opacity));
+}
+.bg-light-2 {
+   --light: 241, 241, 241;
+   --bs-bg-opacity: 1;
+   background-color: rgba(var(--light), var(--bs-bg-opacity));
+}
+.bg-red-400 {
+   --red-400: 255, 100, 103;
+   --bs-bg-opacity: 1;
+   background-color: rgba(var(--red-400), var(--bs-bg-opacity));
+}
+
+.bg-red-500 {
+   --red-500: 251, 44, 54;
+   --bs-bg-opacity: 1;
+   background-color: rgba(var(--red-500), var(--bs-bg-opacity));
+}
+.bg-red-600 {
+   --red-600: 231, 0, 11;
+   --bs-bg-opacity: 1;
+   background-color: rgba(var(--red-600), var(--bs-bg-opacity));
+}
+.bg-red-900 {
+   --red-900: 129, 24, 25;
+   --bs-bg-opacity: 1;
+   background-color: rgba(var(--red-900), var(--bs-bg-opacity));
+}
+.bg-green-400 {
+   --green-400: 6, 223, 114;
+   --bs-bg-opacity: 1;
+   background-color: rgba(var(--green-400), var(--bs-bg-opacity));
+}
+.bg-green-600 {
+   --green-600: 0, 166, 62;
+   --bs-bg-opacity: 1;
+   background-color: rgba(var(--green-600), var(--bs-bg-opacity));
+}
+.bg-gray-300 {
+   --gray-300: 209, 213, 219;
+   --bs-bg-opacity: 1;
+   background-color: rgba(var(--gray-300), var(--bs-bg-opacity));
+}
+.bg-gray-400 {
+   --gray-400: 153, 161, 175;
+   --bs-bg-opacity: 1;
+   background-color: rgba(var(--gray-400), var(--bs-bg-opacity));
+}
+.bg-gray-600 {
+   --gray-600: 74, 85, 101;
+   --bs-bg-opacity: 1;
+   background-color: rgba(var(--gray-600), var(--bs-bg-opacity));
+}
+.bg-gray-700 {
+   --gray-700: 54, 65, 83;
+   --bs-bg-opacity: 1;
+   background-color: rgba(var(--gray-700), var(--bs-bg-opacity));
+}
+.bg-gray-800 {
+   --gray-800: 30, 41, 57;
+   --bs-bg-opacity: 1;
+   background-color: rgba(var(--gray-800), var(--bs-bg-opacity));
+}
+.bg-gray-900 {
+   --gray-900: 16, 24, 40;
+   --bs-bg-opacity: 1;
+   background-color: rgba(var(--gray-900), var(--bs-bg-opacity));
+}
+.bg-gray-901 {
+   --gray-901: 26, 26, 26;
+   --bs-bg-opacity: 1;
+   background-color: rgba(var(--gray-901), var(--bs-bg-opacity));
+}
+/* E N D   T E X T   B G - C O L O R S */
+
+.bg-opacity-50 {
+   --bs-bg-opacity: 0.5;
+}
+
+/* S T A R T   F O N T   S I Z E */
+.fs-12 {
+   font-size: 0.75rem;
+}
+.fs-14 {
+   font-size: 0.875rem;
+}
+.fs-16 {
+   font-size: 1rem;
+}
+.fs-18 {
+   font-size: 1.125rem;
+}
+.fs-20 {
+   font-size: 1.25rem;
+}
+.fs-24 {
+   font-size: 1.5rem;
+}
+.fs-30 {
+   font-size: 1.875rem;
+}
+.fs-36 {
+   font-size: 2.25rem;
+}
+.fs-48 {
+   font-size: 3rem;
+}
+.fs-60 {
+   font-size: 3.75rem;
+}
+@media (min-width: 576px) {
+   .fs-sm-12 {
+      font-size: 0.75rem;
+   }
+   .fs-sm-14 {
+      font-size: 0.875rem;
+   }
+   .fs-sm-16 {
+      font-size: 1rem;
+   }
+   .fs-sm-18 {
+      font-size: 1.125rem;
+   }
+   .fs-sm-20 {
+      font-size: 1.25rem;
+   }
+   .fs-sm-24 {
+      font-size: 1.5rem;
+   }
+   .fs-sm-30 {
+      font-size: 1.875rem;
+   }
+   .fs-sm-36 {
+      font-size: 2.25rem;
+   }
+   .fs-sm-48 {
+      font-size: 3rem;
+   }
+   .fs-sm-60 {
+      font-size: 3.75rem;
+   }
+}
+@media (min-width: 992px) {
+   .fs-lg-12 {
+      font-size: 0.75rem;
+   }
+   .fs-lg-14 {
+      font-size: 0.875rem;
+   }
+   .fs-lg-16 {
+      font-size: 1rem;
+   }
+   .fs-lg-18 {
+      font-size: 1.125rem;
+   }
+   .fs-lg-20 {
+      font-size: 1.25rem;
+   }
+   .fs-lg-24 {
+      font-size: 1.5rem;
+   }
+   .fs-lg-30 {
+      font-size: 1.875rem;
+   }
+   .fs-lg-36 {
+      font-size: 2.25rem;
+   }
+   .fs-lg-48 {
+      font-size: 3rem;
+   }
+   .fs-lg-60 {
+      font-size: 3.75rem;
+   }
+}
+/* E N D   F O N T   S I Z E */
+
+/* S T A R T   F O N T   W E I G H T */
+.fw-700 {
+   font-weight: 700;
+}
+.fw-400 {
+   font-weight: 400;
+}
+/* E N D   F O N T   W E I G H T */
+
+/* S T A R T   F O N T   F A M I LY */
+.font-Days {
+   font-family: var(--font-Days-One);
+}
+.font-Chakra {
+   font-family: var(--font-Chakra-Petch);
+}
+/* E N D   F O N T   F A M I LY */
